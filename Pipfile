@@ -7,6 +7,9 @@ name = "pypi"
 jupyterlab = "*"
 jupyter-client = "==6.1.12"
 notebook = "*"
+pandas = "*"
+matplotlib = "*"
+numpy = "*"
 
 [dev-packages]
 

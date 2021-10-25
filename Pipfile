@@ -10,6 +10,7 @@ notebook = "*"
 pandas = "*"
 matplotlib = "*"
 numpy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 

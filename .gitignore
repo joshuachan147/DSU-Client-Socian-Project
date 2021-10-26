@@ -7,3 +7,5 @@
 #Pipenv
 .venv/
 .env
+
+**/.DS_Store

@@ -4,15 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyterlab = "*"
-jupyter-client = "==6.1.12"
-notebook = "*"
-pandas = "*"
-matplotlib = "*"
+pillow = "*"
 numpy = "*"
-scikit-learn = "*"
+google-cloud-vision = "*"
+opencv-contrib-python = "*"
+scipy = "*"
+matplotlib = "*"
+google-cloud-storage = "*"
+google-cloud-videointelligence = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"

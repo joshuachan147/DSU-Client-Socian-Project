@@ -1,0 +1,8 @@
+{
+    "hat": "headwear",
+    "outerwear": "topwear",
+    "top": "topwear",
+    "skirt": "topwear",
+    "pants": "bottomwear",
+    "shorts": "bottomwear"
+}

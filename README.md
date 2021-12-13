@@ -17,7 +17,7 @@ DSU Client Socian Project
 3. Held-Weapon Detection
 
 **Our Proof of Concept / End Result**
-A Python Program given video footage with a clothing description that can create a new video to...
-→ Detect the suspect and draw a bounding box with algorithm 
-→ Continue to track and box the suspect
-→ Colors the bounding box red when the suspect pulls out a weapon
+A Python Program given video footage with a clothing description that can create a new video that:
+1. Detects the suspect and draws a bounding box with algorithm 
+2. Continues to track and box the suspect
+3. Colors the bounding box red when the suspect pulls out a weapon
